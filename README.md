@@ -33,8 +33,8 @@ Jeśli chcesz uruchomić projekt na swoim komputerze:
 
 1. **Sklonuj repozytorium:**
    ```bash
-   git clone [https://github.com/TWOJ_NICK/TWOJE_REPOZYTORIUM.git](https://github.com/TWOJ_NICK/TWOJE_REPOZYTORIUM.git)
-   cd TWOJE_REPOZYTORIUM
+   git clone [https://github.com/joniec2/Calculator.git](https://github.com/joniec2/Calculator.git)
+   cd Calculator
 
 
 
@@ -73,8 +73,8 @@ To run this project locally on your machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
-   cd YOUR_REPOSITORY
+   git clone [https://github.com/joniec2/Calculator.git](https://github.com/joniec2/Calculator.git)
+   cd Calculator
 
 # DE 🇩🇪
 # 🥗 Kalorien- & Nährwertrechner
@@ -111,5 +111,5 @@ So führst du das Projekt lokal auf deinem Computer aus:
 
 1. **Repository klonen:**
    ```bash
-   git clone [https://github.com/DEIN_BENUTZERNAME/DEIN_REPOSITORY.git](https://github.com/DEIN_BENUTZERNAME/DEIN_REPOSITORY.git)
-   cd DEIN_REPOSITORY
+   git clone [https://github.com/joniec2/Calculator.git](https://github.com/joniec2/Calculator.git)
+   cd Calculator
