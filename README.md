@@ -1,3 +1,4 @@
+# PL 🇵🇱
 # 🥗 Kalkulator Kalorii i Makroskładników
 
 Aplikacja webowa napisana w języku Python przy użyciu frameworka **Streamlit**, służąca do szybkiego i intuicyjnego przeliczania wartości odżywczych oraz kalorii dla dowolnych porcji jedzenia.
@@ -34,3 +35,81 @@ Jeśli chcesz uruchomić projekt na swoim komputerze:
    ```bash
    git clone [https://github.com/TWOJ_NICK/TWOJE_REPOZYTORIUM.git](https://github.com/TWOJ_NICK/TWOJE_REPOZYTORIUM.git)
    cd TWOJE_REPOZYTORIUM
+
+
+
+# EN 🇬🇧
+# 🥗 Calorie & Macronutrient Calculator
+
+A web application built with Python and **Streamlit** for quick and intuitive calculation of calories and macronutrients based on custom portion sizes.
+
+---
+
+## 🚀 Live Demo
+
+The application is deployed and publicly accessible here:  
+👉 **[INSERT_YOUR_STREAMLIT_CLOUD_LINK_HERE]**
+
+---
+
+## ✨ Features
+
+* 📊 **Accurate Calculations:** Automatically calculates calories and macronutrients (protein, carbohydrates, fats) based on the specified weight in grams.
+* ⚡ **Real-time Results:** Interactive UI updates values instantly as you adjust input parameters.
+* 📱 **Responsive Design:** Fully optimized for both desktop and mobile screens.
+
+---
+
+## 🛠️ Built With
+
+* **Python 3.x**
+* **Streamlit** (UI & Frontend)
+
+---
+
+## 💻 Local Setup
+
+To run this project locally on your machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+   cd YOUR_REPOSITORY
+
+# DE 🇩🇪
+# 🥗 Kalorien- & Nährwertrechner
+
+Eine Webanwendung, entwickelt mit Python und **Streamlit**, zur schnellen und intuitiven Berechnung von Kalorien und Makronährstoffen basierend auf individuellen Portionsgrößen.
+
+---
+
+## 🚀 Live-Demo
+
+Die Anwendung ist online verfügbar unter:  
+👉 **[HIER_DEINEN_STREAMLIT_CLOUD_LINK_EINFÜGEN]**
+
+---
+
+## ✨ Funktionen
+
+* 📊 **Präzise Berechnungen:** Automatische Berechnung von Kalorien und Makronährstoffen (Eiweiß, Kohlenhydrate, Fette) basierend auf der angegebenen Grammanzahl.
+* ⚡ **Echtzeit-Ergebnisse:** Interaktive Benutzeroberfläche, die Werte sofort beim Anpassen der Eingaben aktualisiert.
+* 📱 **Responsive Design:** Vollständig optimiert für Desktop- und Mobilgeräte.
+
+---
+
+## 🛠️ Technologien
+
+* **Python 3.x**
+* **Streamlit** (UI & Frontend)
+
+---
+
+## 💻 Lokale Installation
+
+So führst du das Projekt lokal auf deinem Computer aus:
+
+1. **Repository klonen:**
+   ```bash
+   git clone [https://github.com/DEIN_BENUTZERNAME/DEIN_REPOSITORY.git](https://github.com/DEIN_BENUTZERNAME/DEIN_REPOSITORY.git)
+   cd DEIN_REPOSITORY
