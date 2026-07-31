@@ -48,7 +48,7 @@ A web application built with Python and **Streamlit** for quick and intuitive ca
 ## 🚀 Live Demo
 
 The application is deployed and publicly accessible here:  
-👉 **[INSERT_YOUR_STREAMLIT_CLOUD_LINK_HERE]**
+👉 **https://calculator-kcal.streamlit.app/**
 
 ---
 
@@ -86,7 +86,7 @@ Eine Webanwendung, entwickelt mit Python und **Streamlit**, zur schnellen und in
 ## 🚀 Live-Demo
 
 Die Anwendung ist online verfügbar unter:  
-👉 **[HIER_DEINEN_STREAMLIT_CLOUD_LINK_EINFÜGEN]**
+👉 **https://calculator-kcal.streamlit.app/**
 
 ---
 
